@@ -1,0 +1,2 @@
+C:\Users\swapnilsharma\Desktop\Script\DotNet
+java  -jar  DotNet.jar
